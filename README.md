@@ -9,7 +9,7 @@
 
 ![wakupparalyzed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakupparalyzed&theme=tokyonight&layout=compact)
 
-- 🔭 I’m currently working on ... FPT POLYTECHNIC
+- 🔭 I’m currently working on FPT POLYTECHNIC
 - 🌱 I’m currently learning C/C++,... for my interests
 - ⚡ Fun fact: I'm stupid, ok!
 
