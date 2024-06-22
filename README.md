@@ -9,7 +9,7 @@
 
 ![wakupparalyzed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakupparalyzed&theme=tokyonight&layout=compact)
 
-- 🔭 I’m currently studying on FPT POLYTECHNIC
+- 🔭 I’m currently studying at FPT POLYTECHNIC
 - 🌱 I’m currently learning C/C++,... for my dream job
 
 <p> <img src="https://komarev.com/ghpvc/?username=wakupparalyzed&label=Profile%20views&color=bf91f3&style=flat" alt="wakupparalyzed" /> </p>
