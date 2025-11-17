@@ -5,7 +5,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1167591960622673962?theme=dark&bg=0e0f1a&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Do%20I%20detect%20a%20hint%20of,%20uh,%20jealousy?)](https://discord.com/users/1167591960622673962)
 
 ![wakupparalyzed's github stats](https://github-readme-stats.vercel.app/api?username=wakupparalyzed&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wakupparalyzed&theme=tokyonight" alt="mystreak"/>
 
 ![wakupparalyzed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakupparalyzed&theme=tokyonight&layout=compact)
 
