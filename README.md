@@ -16,10 +16,10 @@
 <td valign="top" width="50%" align="center">
 <h3>👨‍💻 About Me</h3>
 <p>
-🔭 I’m currently working on <b>Projects...</b><br>
+🔭 I’m currently working on <b>Acrepu...</b><br>
 🌱 I’m currently learning <b>React, NodeJS...</b><br>
-💬 Ask me about <b>Front-end, Design...</b><br>
-📫 Contact: <b>email@domain.com</b>
+💬 Ask me about <b>Vibe Coding...</b><br>
+📫 Contact: <b>lulamquocthai@gmail.com</b>
 </p>
 <h3>🛠 Tech Stack</h3>
 <p>
@@ -34,9 +34,6 @@
 <a href="https://discord.com/users/1167591960622673962">
 <img src="https://lanyard.cnrad.dev/api/1167591960622673962?theme=dark&bg=2b2b2b&animated=true&hide_discrim=true&borderRadius=10px&idleMessage=Probably%20sleeping..." />
 </a>
-<br><br>
-<h3>🔥 Streak Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wakupparalyzed&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
