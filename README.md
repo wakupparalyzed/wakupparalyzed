@@ -10,6 +10,7 @@
 </a>
 </p>
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%" align="center">
@@ -39,6 +40,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
