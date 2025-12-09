@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+YourName;I+Code+Creative+Websites;Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+天音;I+Code+Creative+Websites;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -41,7 +41,7 @@
       <br><br>
       
       <h3>📊 Github Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wakupparalyzed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
     </td>
   </tr>
 </table>
