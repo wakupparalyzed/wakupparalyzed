@@ -34,8 +34,8 @@
     
     <td valign="top" width="50%">
       <h3>🎧 My Activity</h3>
-      <a href="https://discord.com/users/YOUR_DISCORD_ID">
-        <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=2b2b2b&animated=true&hide_discrim=true&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Presence" />
+      <a href="https://discord.com/users/1167591960622673962">
+        <img src="https://lanyard.cnrad.dev/api/1167591960622673962?theme=dark&bg=2b2b2b&animated=true&hide_discrim=true&borderRadius=10px&idleMessage=Probably%20sleeping..." />
       </a>
       
       <br><br>
