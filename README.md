@@ -17,7 +17,7 @@
 <h3>👨‍💻 About Me</h3>
 <p>
 🔭 I’m currently working on <b>Acrepu...</b><br>
-🌱 I’m currently learning <b>React, NodeJS...</b><br>
+🌱 I’m currently learning <b>Rust, Golang...</b><br>
 💬 Ask me about <b>Vibe Coding...</b><br>
 📫 Contact: <b>lulamquocthai@gmail.com</b>
 </p>
